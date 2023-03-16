@@ -37,7 +37,7 @@
 - 🏁 Basic
 - 🏁 Float, Position
 - 🏁 Flexbox, Grid
-- 🏁 Transiotion, Animation
+- 🏁 Transiontion, Animation
 - 🏁 Responsive
 
 ### 🚣 Checkpoint 3: Pre-processor CSS
